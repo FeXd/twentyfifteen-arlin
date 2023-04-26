@@ -10,3 +10,27 @@ License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: twentyfifteen-arlin
 */
+
+p.site-description {
+	display:block;
+}
+
+aside#block-5.widget_block {
+	margin-bottom: 1.5em;
+}
+
+.statify-widget-list {
+	list-style: none;
+	
+}
+
+.statify-widget-list li {
+	border-top: 1px solid #eaeaea;
+	border-color: rgba( 255, 255, 255, 0.1);
+	padding: 0.4688em 0;
+}
+
+.statify-widget-list li:first-child {
+	border-top: 0;
+	padding-top: 0;
+}
